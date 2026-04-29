@@ -1,4 +1,4 @@
-**Flappy Bird ** – Assembly Game
+**Flappy Bird** – Assembly Game
   
 A 2D side-scrolling arcade game inspired by Flappy Bird, built entirely in x86 Assembly Language. This project showcases low-level programming concepts such as interrupt handling, memory management, and real-time input processing.
 
